@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "İndirPin: Pinterest Video İndirici",
+    "description": "Pinterest'ten videoları, fotoğrafları, GIF'leri ve resimleri ücretsiz indirin.",
+    "version": "1.0",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "host_permissions": [
+        "*://www.pinterest.com/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "indirpin.html",
+        "default_icon": "icons/icon48.png"
+    }
+}
