@@ -51,6 +51,16 @@
 <p><span style="font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Web&quot;, sans-serif;font-size:14px;"><span style="white-space:pre-wrap;" data-teams="true">Evet, İndirPin'in kullanımı güvenlidir. Kullanıcı verilerini veya indirilen içeriği saklamaz, gizliliği sağlar.</span></span></p>
 <h3>İndirPin'i akıllı telefonumda veya tabletimde kullanabilir miyim?</h3>
 <p><span style="font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Web&quot;, sans-serif;font-size:14px;"><span style="white-space:pre-wrap;" data-teams="true">Evet, İndirPin akıllı telefonlar, tabletler ve PC'ler dahil olmak üzere tüm cihazlarla uyumludur. Tüm modern tarayıcılarda sorunsuz çalışır.</span></span></p>
+<h2>İndirPin Sosyal Medya Profilleri</h2>
+<ul>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/indirpin.com.tr/">Facebook</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/indirpin.com.tr/">Instagram</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/indirpin/">Pinterest</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://x.com/indirpin">X (Twitter)</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/indirpin">LinkedIn</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@IndirPin">YouTube</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://about.me/indirpin">About.me</a></li>
+</ul>
 <h2>Sonuç</h2>
 <p>&nbsp;</p>
 <p><span style="font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Web&quot;, sans-serif;font-size:14px;"><span style="white-space:pre-wrap;" data-teams="true">Sonuç olarak İndirPin, videolar, resimler, GIF'ler ve karuseller dahil olmak üzere çeşitli Pinterest içeriğini indirmek için oldukça verimli ve kullanıcı dostu bir platform görevi görür. Sezgisel tasarımı, yüksek kaliteli çıktıları ve tamamen ücretsiz erişimi ile İndirPin, Pinterest pinlerini çevrimdışı kullanım için kaydetme işlemini basitleştirir. Ek yazılım veya kayıt ihtiyacını ortadan kaldırarak tüm cihazlarda sorunsuz bir deneyim sunuyor.</span></span></p>
